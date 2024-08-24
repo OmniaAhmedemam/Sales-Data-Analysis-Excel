@@ -26,6 +26,9 @@ The data highlights sales trends and performance across regions such as Delta, U
 -   How does sales performance vary across different time periods?
 ## Dashboard
 Create Sales performance Analysis Dashboard
+![Sales Dashboard](https://github.com/user-attachments/assets/fa3f5a0f-ad13-4b81-9ee7-a3790b3ca377)
+
+
 ## insights:
 - The total sales amount to 256,361,867, with a customer base of 5,166.
 - Sales Distribution by region: Delta region has the highest number of customers (2,323) and accounts for 57% of total sales then Upper region follow with 1,932 customers and contributes 37% of total sales then Cairo/Giza has the least customers(347) and only contributes 6% of total sales.
